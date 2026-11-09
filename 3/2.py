@@ -1,0 +1,5 @@
+sonlar = input("Vergul bilan sonlar kiriting: ")
+royhat = sonlar.split(",")
+print(royhat)
+kontaj = tuple(royhat)
+print(kontaj)
